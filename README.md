@@ -54,7 +54,7 @@ Two major options are available for color-coding.
 Bounds for the colormap and threshold values can be changed in the input fields on the right of the "Data Manager" button. 
 
 ## Config
-You can save, load and copy configurations for TopographX from this menu. This will save *everything*, including the current dataset, mesh position, colors, etc. for loading at a later time, or making an online visualization set. With large datasets, saving can take a while. With 1135 electrodes and 24 time steps, this takes about 15s on a recent machine. 
+You can save, load and copy configurations for TopographX from this menu. This will save *everything*, including the current dataset, mesh position, colors, etc. for loading at a later time, or making an online visualization set. With large datasets, saving can take a while. With 1135 electrodes and 24 time steps, this takes about 15s on a somewhat recent laptop. 
 
 ## Options
 Here, you can change various properties of the TopographX environment, incuding the background color, whether the x,y,z axes are shown, the mesh color, transparency and glossiness, electrode size, and csv file separating character.
