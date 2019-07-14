@@ -35,7 +35,7 @@ The rest of the columns should correspond to the data you wish to visualize, at 
 1,Heschl,Tom,x1,y1,z1,0,78.43,80.22,12.1\
 2,Tsup,Tom,x2,y2,z2,0,33,54.211,0
 
-This dataset contains 2 electrodes labeled Heschl and Tsup, located respectively at (x1,y1,z1) and (x2,y2,z2). The associated data is shown starting from after z1 and z2, and were sampled at timestamps 0, 0.5, 1 and 1.5 s.
+This dataset contains 2 electrodes labeled Heschl and Tsup, located respectively at (x1,y1,z1) and (x2,y2,z2). Both electrodes come from Patient Tom. The associated data is shown starting from after z1 and z2, and were sampled at timestamps 0, 0.5, 1 and 1.5 s.
 
 ## Data Manager
 ### Datasets
