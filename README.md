@@ -73,5 +73,8 @@ A "play" button is available to have all images in the series be shown in order 
 This feature is not currently available (sadly), but will be added soon. For now, image capture can be achieved by "Print Screen" on a full-screen display of TopographX.\
 Otherwise, we recommend using the Fraps software which allows for high-quality image and video capture.
 
+## Making online images
+This section is not detailed yet, stay tuned, it will be soon!
+
 ## contact
 Please, do not hesitate to contact us at drr@tuta.io or a.dieulesaint@gmail.com if you wish to contribute to the project (coded in Unity, C#), report a bug, give us feedback or suggestions for future releases. 
