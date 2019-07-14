@@ -15,9 +15,11 @@ Your data must be formatted in a csv-file, with either a separator "," or ";". I
 
 ### Separator ",":
 1.1,2.2,3.3
+
 4.4,5.5,6.6
 ### Separator ";":
 1,1;2,2;3,3
+
 4,4;5,5;6,6
 
 ## Data formatting
@@ -32,7 +34,9 @@ Columns 4 to 6 should respectively indicate the x, y and z coordinates of each e
 The rest of the columns should correspond to the data you wish to visualize, at the time-stamps indicated by the header. These have to be numbers.
 #### example
 2,s,0,0.5,1,1.5
+
 1,Heschl,x1,y1,z1,0,78.43,80.22,12.1
+
 2,Tsup,x2,y2,z2,0,33,54.211,0
 
 This dataset contains 2 electrodes labeled Heschl and Tsup, located respectively at (x1,y1,z1) and (x2,y2,z2). The associated data is shown starting from after z1 and z2, and were sampled at timestamps 0, 0.5, 1 and 1.5 s.
