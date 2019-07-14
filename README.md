@@ -9,7 +9,8 @@ So far, data can only be plotted in MNI-space using the ICBM-152 template, but w
 To start using TopographX, you only need a single csv file formatted as described below, which can readily be loaded in the software interface. Several options for plotting and better visualization are available in-software. Specific parameter configurations can be saved and loaded, however individual images and films cannot be recorded from within TopographX. You will need to use 3rd party sotfware to do so.
 
 Below are specific instructions and details for use of TopographX. Besides the file and data format sections, most options in TopographX should be reasonably intuitive. You can initially skip these, and come back to them if something isn't clear, or you would like to see what is possible in TopographX.
-
+## Download
+...
 ## Acceptable file formats
 Your data must be formatted in a csv-file, with either a separator "," or ";". In the first case, decimals should be indicated with ".", while in the second, they should be indicated with ",". Using the "," syntax is the default in TopographX. In order to use the other format, you need to go to "Options" and input the "csv files separating character" as ;.
 
