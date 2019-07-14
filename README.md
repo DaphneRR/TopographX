@@ -4,17 +4,17 @@
 Welcome to TopographX, a small, plug-and-play software for iEEG data visualization, designed and programmed in collaboration by Antoine Dieulesaint and Daphné Rimsky-Robert.\
 This software comes in an executable build you can download from here, and allows for the creation of specific web-pages to display your data and make it globally available. Currently, the software has been tested and validated for Windows. Linux and MacOS builds are available but couldn't be tested.
 
-So far, data can only be plotted in MNI-space using the ICBM-152 template, but we plan on making the use of different brain-meshes possible in the future.
+So far, data can be plotted in MNI-space using the ICBM-152 template, but we plan on making the use of different brain-meshes possible in the future.
 
-To start using TopographX, you only need a single csv file formatted as described below, which can readily be loaded in the software interface. Several options for plotting and better visualization are available in-software. Specific parameter configurations can be saved and loaded, however individual images and films cannot be recorded from within TopographX. You will need to use 3rd party sotfware to do so.
+To start using TopographX, you only need a single csv file formatted as described below, which can readily be loaded in the software interface. Several options for plotting and better visualization are available in-software. Specific parameter configurations can be saved and loaded.
 
-Below are specific instructions and details for use of TopographX. Besides the file and data format sections, most options in TopographX should be reasonably intuitive. You can initially skip these, and come back to them if something isn't clear, or you would like to see what is possible in TopographX.
+Below are specific instructions and details for use of TopographX. Besides the download, file and data format sections, most options in TopographX should be reasonably intuitive. You can initially skip these, and come back to them if something isn't clear, or you would like to see what is possible in TopographX.
 ## Download
 ...
 ## Acceptable file formats
-Your data must be formatted in a csv-file, with either a separator "," or ";". In the first case, decimals should be indicated with ".", while in the second, they should be indicated with ",". Using the "," syntax is the default in TopographX. In order to use the other format, you need to go to "Options" and input the "csv files separating character" as ;.
+Your data must be formatted in a csv-file, with either a separator "," or ";". In the first case, decimals should be indicated with ".", while in the second, they should be indicated with ",". Using the "," separator syntax is the default in TopographX. In order to use the other format, you need to go to "Options" and input the "csv files separating character" as ";".
 
-### Separator ",":
+### Separator "," (default):
 1.1,2.2,3.3\
 4.4,5.5,6.6
 ### Separator ";":
